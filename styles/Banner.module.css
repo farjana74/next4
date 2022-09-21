@@ -1,0 +1,41 @@
+.banner {
+  background-image: url("../pages/images/Background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 551px;
+  border-radius: 0 0 85% 85% / 9%;
+}
+.bannerFirst {
+  display: flex;
+  align-items: center;
+  height: 500px;
+}
+.bannerContent {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 67px;
+
+  color: #ffffff;
+}
+.bannerDescription {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+
+  color: #ffffff;
+}
+.button {
+  background: #ff5529;
+  border-radius: 50px;
+  width: 183px;
+  height: 44px;
+  border: 0;
+  font-weight: 400;
+  font-size: 20px;
+  margin-top: 5px;
+}

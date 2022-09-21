@@ -1,0 +1,15 @@
+.team {
+  background-image: url("../pages/images/Team Image.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 494px;
+  background-color: rgba(80, 114, 157, 0.84);
+  background-blend-mode: multiply;
+  border-radius: 58% 58% 0 0 / 25%;
+}
+.award {
+  background-image: url("../pages/images/Sparkles.png");
+  background-repeat: no-repeat;
+  width: 400px;
+}
